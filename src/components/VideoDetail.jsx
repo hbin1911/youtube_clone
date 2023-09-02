@@ -3,7 +3,9 @@ import React from 'react';
 const VideoDetail = () => {
   return (
     <div>
-      VideoDetail
+      VideoDetail as given
+      
+
     </div>
   )
 }
